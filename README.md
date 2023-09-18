@@ -39,13 +39,6 @@
 <br/>
 <hr/>
 
-<div align="center" style="font-family:'JetBrains Mono';color:#38BDAE">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/NaveenGumaste/NaveenGumaste/blob/output/github-contribution-grid-snake.gif" />
-  <br/>
-</div>
-
 <hr/>
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats ⚡</h2>
