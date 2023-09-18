@@ -42,9 +42,11 @@
 <div align="center" style="font-family:'JetBrains Mono';color:#38BDAE">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NaveenGumaste/NaveenGumaste/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="(https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)" />
   <br/>
 </div>
+
+![snake gif](https://github.com/NaveenGumaste/NaveenGumaste/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
 
