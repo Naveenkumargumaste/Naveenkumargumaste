@@ -58,6 +58,14 @@
 <br/><br/>
 <hr/>
 
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📕 Latest Blog Posts </h2>
+
+<div align="left" style="font-family:'JetBrains Mono';color:#38BDAE">
+
+- [HTML5 Semantic Elements Learn Now!](https://medium.com/@Cynos/html5-semantic-elements-learn-now-9a3547f1b779)
+- [Only Vs Code Extension You Need 2022](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
+</div>
+<hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A467F7&lines=Thanks+for+visiting!+✌️">
 </h3>
