@@ -38,8 +38,8 @@
 
 <br/>
 <hr/>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenGumaste&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenGumaste&theme=github-dark-dimmed&custom_title=Naveen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
@@ -52,6 +52,16 @@
 
 <br/><br/>
 <hr/>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31posslgzomhnuu3qvgbzqgfx4vq&count=5">
+</p>
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📕 Latest Blog Posts </h2>
 
