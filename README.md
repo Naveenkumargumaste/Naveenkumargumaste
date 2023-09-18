@@ -39,6 +39,8 @@
 <br/>
 <hr/>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenGumaste&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr/>
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats ⚡</h2>
