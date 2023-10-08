@@ -53,6 +53,8 @@
 <br/><br/>
 <hr/>
 
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡My Spotify Playlist ⚡</h2>
+<br>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31posslgzomhnuu3qvgbzqgfx4vq&count=5">
 </p>
