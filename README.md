@@ -9,7 +9,7 @@
 
 <div align="center" style="font-family:'JetBrains Mono';color:MediumSlateBlue" >
  
- 🔭 I’m currently studying in **4th Year**
+ 🔭 I’m currently studying in **Final Year**
  
  🌱 And currently working on **Machine Learning & Web Development**
  
