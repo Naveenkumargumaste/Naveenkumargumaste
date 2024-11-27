@@ -32,8 +32,8 @@
 <h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,c,linux,lua" /><br><br>
-    <img src="https://skillicons.dev/icons?i=azure,bootstrap,mysql,html,css,git,vscode,netlify,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,arduino,javascript,c,linux,ubuntu" /><br><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,bash,mongodb,git,vscode,netlify,raspberrypi" />
 </div>
 
 <br/>
