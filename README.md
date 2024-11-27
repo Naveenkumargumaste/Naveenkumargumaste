@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying in **Final Year**
  
- 🌱 And working on **Machine Learning & Web Development**
+ 🌱 And working on **"Carla" for Autonomous Emergency Braking & Web Development**
  
  </div>
  
