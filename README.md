@@ -65,7 +65,7 @@
 <div align="left" style="font-family:'JetBrains Mono';color:#38BDAE">
 
 - [HTML5 Semantic Elements Learn Now!](https://medium.com/@Cynos/html5-semantic-elements-learn-now-9a3547f1b779)
-- [Only Vs Code Extension You Need 2022](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
+- [Only Vs Code Extension You Need 2025](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
 </div>
 <hr/>
 <h3 align="center">
