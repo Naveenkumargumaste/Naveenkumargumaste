@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying in **Final Year**
  
- 🌱 And currently working on **Machine Learning & Web Development**
+ 🌱 And working on **Machine Learning & Web Development**
  
  </div>
  
