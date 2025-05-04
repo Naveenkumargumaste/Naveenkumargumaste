@@ -30,10 +30,9 @@
  <hr/>
 
  
- <div>
-    <h1 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">WEB DEV</h1>
-     
- </div>
+<div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
+     <h3>WEB DEVELOPMENT</h3>
+</div>
  
 <h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
