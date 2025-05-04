@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=MongoDB,npm,postman,vite,webpack,git,docker,vercel,netlify" />
 </div>
 
-<h3 align="center">Others Skills</h3>
+<h3 align="center">Other Skills</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python,arduino,github,linux,vscode" /><br><br>
