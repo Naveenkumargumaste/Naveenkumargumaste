@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying in **Final Year**
  
- 🌱 And working on **Carla Simulator & Web Development**
+ 🌱 And working on **Frontend Web Development**
  
  </div>
  
@@ -39,7 +39,7 @@
 <h1 align="center">Others Skills</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python,c,arduino,github,linux,vscode" /><br><br>
+    <img src="https://skillicons.dev/icons?i=c,python,arduino,github,linux,vscode" /><br><br>
     <img src="https://skillicons.dev/icons?i=raspberrypi,matlab,qt,stackoverflow,tensorflow" /><br><br>
 </div>
 
