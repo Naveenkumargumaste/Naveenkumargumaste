@@ -22,8 +22,6 @@
   <a href="https://linkedin.com/in/naveenkumar-gumaste" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -41,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=MongoDB,npm,postman,vite,webpack,git,docker,vercel,netlify" />
 </div>
 
-<h1 align="center">Others Skills</h1>
+<h3 align="center">Others Skills</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python,arduino,github,linux,vscode" /><br><br>
