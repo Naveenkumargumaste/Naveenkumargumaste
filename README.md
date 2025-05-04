@@ -28,13 +28,22 @@
 </div>
 
  <hr/>
- 
+ <h1 align="center">WEB DEV</h1>
 <h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,ts,react,nextjs,express" /><br><br>
+    <img src="https://skillicons.dev/icons?i=MongoDB,npm,postman,vite,webpack,git,docker,vercel,netlify" />
+</div>
+
+<h1 align="center">Others Skills</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,arduino,javascript,c,linux,ubuntu" /><br><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,bash,mongodb,git,vscode,netlify,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,c,arduino,github,linux,vscode" /><br><br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,matlab,qt,stackoverflow,tensorflow" /><br><br>
 </div>
+
+
 
 <br/>
 <hr/>
