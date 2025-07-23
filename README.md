@@ -51,7 +51,7 @@
 <br/>
 <hr/>
  
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenGumaste&theme=github-dark-dimmed&custom_title=Naveen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumargumaste&theme=github-dark-dimmed&custom_title=Naveen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
