@@ -51,8 +51,8 @@
 <br/>
 <hr/>
  
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumargumaste&theme=github-dark-dimmed&custom_title=Naveen's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumargumaste&bg_color=0D1117&color=70a4fc&line=584873&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                   
 <hr/>
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats ⚡</h2>
